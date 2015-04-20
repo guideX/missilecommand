@@ -1,0 +1,323 @@
+//////////////////////////////////////////////////////////////////////
+/////////////////////////////// Summary //////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+		Features:  			        14
+		Components:			        19
+		Number of Files:		        37
+		Size of Files:   		       3541799
+		Size in Library:		       2816039
+
+
+		<Support>
+			Engine
+				Log
+				Kernel
+			Main Installation
+				Script
+				Setup
+				StrTbl
+				RunTime
+				Resource
+		<Data>
+			Disk<1>
+			DefaultFeature
+			ScannedProject1
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Features ///////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+*<Support>*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Log*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Kernel*
+
+		Component
+		------------------------------------------------------
+		"<Engine>Kernel Placeholder"
+		"<Engine>EngineCommonPlaceHolderSelfReg"
+
+*<Support>\Main Installation*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Main Installation\Script*
+
+		Component
+		------------------------------------------------------
+		"<Support>Script"
+
+*<Support>\Main Installation\Setup*
+
+		Component
+		------------------------------------------------------
+		"<Support>Language Independent OS Independent Files"
+		"<Support>0x0409 OS Independent Files"
+		"<Support>Build Generated Support Files"
+		"<Support>Misc Support Files"
+		"<Support>Misc i64 Support Files"
+		"<Support>Misc x64 Support Files"
+
+*<Support>\Main Installation\StrTbl*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 String Tables"
+
+*<Support>\Main Installation\RunTime*
+
+		Component
+		------------------------------------------------------
+		"<Support>Non-SelfRegistering"
+
+*<Support>\Main Installation\Resource*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 Files"
+
+*<Data>*
+
+		Component
+		------------------------------------------------------
+
+*<Data>\Disk<1>*
+
+		Component
+		------------------------------------------------------
+		"<Disk1>Disk1 Files(1)"
+		"<Disk1>Disk1 Files(2)"
+		"<Disk1>Disk1 Files(3)"
+		"<Disk1>Disk1 Files(4)"
+
+*<Data>\DefaultFeature*
+
+		Component
+		------------------------------------------------------
+		"DefaultComponent"
+
+*<Data>\ScannedProject1*
+
+		Component
+		------------------------------------------------------
+		"TARGETDIRSharedSelfRegFiles"
+		"TARGETDIRFiles"
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Components ////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+><Engine>Kernel Placeholder<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Engine>EngineCommonPlaceHolderSelfReg<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Script<
+
+		Size of Files:   		        223279
+		Size in Library:		        223279
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             10/27/2013  06:44:18 PM       223279  ""                 "A"           "b781ebcc70e70d1dd879a6434afe3504"      "c:\dev\missilecommand\installer\missile command\script files\setup.inx"
+
+><Support>Language Independent OS Independent Files<
+
+		Size of Files:   		         11493
+		Size in Library:		          2605
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"license.rtf"                                           11/28/2004  09:52:18 AM        11493  ""                 "A"           "e7eb45e877c8cb80f56e9dbc9504e757"      "c:\program files (x86)\installshield\2010\redist\0409\license.rtf"
+
+><Support>0x0409 OS Independent Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Build Generated Support Files<
+
+		Size of Files:   		           125
+		Size in Library:		            99
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"fontdata.ini"                                          10/27/2013  06:44:20 PM           39  ""                 "A"           "00f313e3e007599349a0c4d81c7807c4"      "c:\users\giuidex\appdata\local\temp\fontdata.ini"
+		"difxdata.ini"                                          10/27/2013  06:44:20 PM           86  ""                 "A"           "10baa5b67536f4433f37534b9c8bb828"      "c:\users\giuidex\appdata\local\temp\difxdata.ini"
+
+><Support>Misc Support Files<
+
+		Size of Files:   		         76583
+		Size in Library:		         17909
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"corecomp.ini"                                          03/06/2006  11:55:04 PM        65503  ""                 "A"           "09d38ceca6a012f4ce5b54f03db9b21a"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\corecomp.ini"
+		"dotnetinstaller.exe"                                   06/10/2009  02:57:52 PM        11080  "16.0.0.328"       "A"           "94b6f434210bfad6abdcf818b8cf350f"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\dotnetinstaller.exe"
+
+><Support>Misc i64 Support Files<
+
+		Size of Files:   		        239416
+		Size in Library:		        103979
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  02:59:18 PM       239416  "16.0.0.328"       "A"           "38eb6c08e3e7e385255119c8c732fa99"      "c:\program files (x86)\installshield\2010\redist\language independent\i64\isbew64.exe"
+
+><Support>Misc x64 Support Files<
+
+		Size of Files:   		        107320
+		Size in Library:		         52026
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  02:59:18 PM       107320  "16.0.0.328"       "A"           "41cb698f967b4d9f2580ea2a21a5a710"      "c:\program files (x86)\installshield\2010\redist\language independent\x64\isbew64.exe"
+
+><Support>0x0409 String Tables<
+
+		Size of Files:   		           530
+		Size in Library:		           238
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"stringtable_0x0409.ips"                                10/27/2013  06:44:18 PM          530  ""                 "A"           "2d536c977d956627cd698e22564ad7e9"      "c:\dev\missilecommand\installer\missile command\string tables\stringtable_0x0409.ips"
+
+><Support>Non-SelfRegistering<
+
+		Size of Files:   		        262592
+		Size in Library:		        253568
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isrt.dll"                                              09/22/2009  01:08:46 AM       261424  "16.0.0.400"       "A"           "ed5aa645392883b21507c8d097fda277"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\isrt.dll"
+		"default.pal"                                           03/06/2006  11:55:02 PM         1168  ""                 "A"           "0abafe3f69d053494405061de2629c82"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\default.pal"
+
+><Support>0x0409 Files<
+
+		Size of Files:   		        389120
+		Size in Library:		         93551
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"_isres_0x0409.dll"                                     06/10/2009  02:18:52 PM       389120  "16.0.0.328"       "A"           "799988f2074c157a0f8b6c48ab975612"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\skins\_isres_0x0409.dll"
+
+><Disk1>Disk1 Files(1)<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"layout.bin"                                            11/28/2004  10:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\layout.bin"
+		"data1.hdr"                                             11/28/2004  10:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.hdr"
+		"data1.cab"                                             11/28/2004  10:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.cab"
+
+><Disk1>Disk1 Files(2)<
+
+		Size of Files:   		       1661027
+		Size in Library:		       1661027
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.exe"                                             10/27/2013  06:44:20 PM       802816  "16.0.0.400"       "A"           "07c90b494645f1a143d934139f49264a"      "c:\dev\missilecommand\installer\missile command\media\single_exe_image\disk images\disk1\setup.exe"
+		"issetup.dll"                                           09/22/2009  01:08:46 AM       577024  "16.0.0.400"       ""            "1bf0fc52d41be3f3c1025b3971bc49a0"      "c:\dev\missilecommand\installer\missile command\media\single_exe_image\disk images\disk1\issetup.dll"
+		"0x0409.ini"                                            05/21/2009  03:53:56 PM        21494  ""                 "A"           "36affbd6ff77d1515cfc1c5e998fbaf9"      "c:\dev\missilecommand\installer\missile command\media\single_exe_image\disk images\disk1\0x0409.ini"
+		"setup.isn"                                             06/10/2009  02:29:36 PM       259693  ""                 "A"           "5b26fdb5a5a3b6c06f591b358f970236"      "c:\dev\missilecommand\installer\missile command\media\single_exe_image\disk images\disk1\setup.isn"
+
+><Disk1>Disk1 Files(3)<
+
+		Size of Files:   		        223279
+		Size in Library:		        223279
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             10/27/2013  06:44:18 PM       223279  ""                 "A"           "b781ebcc70e70d1dd879a6434afe3504"      "c:\dev\missilecommand\installer\missile command\script files\setup.inx"
+
+><Disk1>Disk1 Files(4)<
+
+		Size of Files:   		          1225
+		Size in Library:		          1225
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.ini"                                             10/27/2013  06:44:20 PM         1225  ""                 "A"           "60a2cb5d0cfc0e4e247053623896e81c"      "c:\dev\missilecommand\installer\missile command\media\single_exe_image\disk images\disk1\setup.ini"
+
+>DefaultComponent<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+>TARGETDIRSharedSelfRegFiles<
+
+		Size of Files:   		        152848
+		Size in Library:		         64519
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"comdlg32.ocx"                                          03/09/2004  12:00:00 AM       152848  "6.1.97.82"        "A"           "ab412429f1e5fb9708a8cdea07479099"      "c:\program files (x86)\team nexgen\missile command\comdlg32.ocx"
+
+>TARGETDIRFiles<
+
+		Size of Files:   		        192962
+		Size in Library:		        118735
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"alarm.wav"                                             08/23/2001  06:00:00 AM         7754  ""                 "A"           "1f5212291303abc61e31dd5460b502d2"      "c:\dev\missilecommand\alarm.wav"
+		"dd.ini"                                                06/17/2002  09:09:56 AM          735  ""                 "A"           "f7a849f3ead8c3a1efa55eb6548b8d28"      "c:\dev\missilecommand\dd.ini"
+		"explode.wav"                                           07/11/1997  01:00:00 AM        23584  ""                 "A"           "49b9da9918858f2f28b32ee845fa4c4c"      "c:\dev\missilecommand\explode.wav"
+		"empty.wav"                                             08/23/2001  06:00:00 AM         3002  ""                 "A"           "6e16123605be6ead006de652a7bfee6b"      "c:\dev\missilecommand\empty.wav"
+		"ohno.wav"                                              03/02/2000  05:50:00 AM        74100  ""                 "A"           "d1a5309b3c78a88d0c7498fa1bbc2d6b"      "c:\dev\missilecommand\ohno.wav"
+		"split.wav"                                             08/23/2001  06:00:00 AM         1520  ""                 "A"           "f0405f48055f2138c06e682d615bd7d9"      "c:\dev\missilecommand\split.wav"
+		"swoosh.wav"                                            05/11/1998  05:01:00 PM         6830  ""                 "RA"          "f83ed07243b6549ea291f2f86473e36b"      "c:\dev\missilecommand\swoosh.wav"
+		"team nexgen website.url"                               10/27/2013  12:05:32 PM          116  ""                 "A"           "605cf6c0f77daebed8a4a374d6dac65f"      "c:\dev\missilecommand\team nexgen website.url"
+		"build1.gif"                                            02/05/2002  06:59:16 PM         2427  ""                 "A"           "e82455c455647bbb98f312f5d4e358da"      "c:\dev\missilecommand\build1.gif"
+		"nexgen.ico"                                            05/04/2013  12:05:46 AM         3262  ""                 "A"           "98f11c4c0077f007101b4e128759048f"      "c:\dev\missilecommand\nexgen.ico"
+		"missilecommand.exe"                                    02/11/2008  12:32:50 AM        69632  "1.0.0.0"          "A"           "e77fb1114bf4897a2fd48b1159eded5a"      "c:\dev\missilecommand\missilecommand.exe"
